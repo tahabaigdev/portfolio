@@ -100,7 +100,7 @@ const HeroSection = styled.section`
       height: 100px;
       background-color: transparent;
       position: relative;
-      top: 20rem;
+      top: 13rem;
 
       &::before {
         content: "";
