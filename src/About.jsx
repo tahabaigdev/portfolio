@@ -66,12 +66,12 @@ const About = () => {
         <div className="grid">
           <div className="grid-col">
             <p>
-              Greetings! <br /> <br /> My name is Taha Baig I am a Self-Taught
-              Frontend Developer based in Hyderabad, Pakistan. I am passionate
-              about creating and learning new things to boost my development
-              career. I am currently working in Creative Cycle. <br /> <br /> I
-              am here to listen and answer your questions. Your thoughts and
-              time matter to us. Feel free to{" "}
+              Greetings! <br /> <br /> My name is Taha Baig I am a Frontend
+              Developer based in Hyderabad, Pakistan. With over 2 years of
+              hands-on experience in front-end development, I specialize in
+              creating dynamic and responsive web applications using the latest
+              technologies. <br /> <br /> I am here to listen and answer your
+              questions. Your thoughts and time matter to us. Feel free to{" "}
               <button onClick={() => scrollHandler("contact")}>reach</button> me
               I look forward to connecting with you!
             </p>
